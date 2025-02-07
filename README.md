@@ -28,7 +28,7 @@ A React-based application that implements text search functionality using the Vo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/voice123-test.git
+git clone https://github.com/Bighero0122/voice123-test.git
 cd voice123-test
 ```
 
